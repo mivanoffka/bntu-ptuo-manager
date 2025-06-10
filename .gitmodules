@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/mivanoffka/bntu-ptuo-manager-backend
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/mivanoffka/bntu-ptuo-manager-frontend
+	branch = main
